@@ -462,6 +462,9 @@ footer .Copyright {
   .section-p1 {
     padding: 40px 40px;
   }
+  .fa-solid {
+    margin: 10px;
+  }
   #navbar {
     display: flex;
     flex-direction: column;
